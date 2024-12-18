@@ -1,0 +1,7 @@
+name: HyperFlux
+version: '1.0'
+main: com.leorium.hyperflux.HyperFlux
+api-version: '1.21'
+prefix: HyperFlux
+load: STARTUP
+authors: [ Leorium ]
